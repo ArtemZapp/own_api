@@ -1,0 +1,25 @@
+{
+  "name": "own_api",
+  "version": "1.0.0",
+  "description": "task from BrickRedSys comp. for NodeJs vacancy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemZapp/own_api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "artmorex@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemZapp/own_api/issues"
+  },
+  "homepage": "https://github.com/ArtemZapp/own_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
